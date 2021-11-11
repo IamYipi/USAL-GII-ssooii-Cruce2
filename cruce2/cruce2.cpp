@@ -1,5 +1,4 @@
 //JAVIER GARCÍA PECHERO
-//MIGUEL GONZALEZ TELLEZ DE MENESES
 #include <stdio.h>
 #include <stdlib.h>
 #include <iostream>
